@@ -1,12 +1,11 @@
 import { View, Text, StyleSheet } from 'react-native';
 import React from 'react';
 import "@unistyles/unistyles"
+import Navigation from '@navigation/Navigation';
 
 const App = () => {
   return (
-    <View style={styles.container}>
-      <Text style={styles.text}>App name nd this ne</Text>
-    </View>
+   <Navigation></Navigation>
   );
 };
 

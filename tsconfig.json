@@ -12,7 +12,8 @@
       "@unistyles/*": ["src/unistyles/*"],
       "@states/*": ["src/states/*"],
       "@services/*": ["src/services/*"],
-      "@utils/*": ["src/utils/*"]
+      "@utils/*": ["src/utils/*"],
+      "@enums/*":["src/types/*"],
     }
   }
 }
