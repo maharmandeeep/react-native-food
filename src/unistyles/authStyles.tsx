@@ -48,6 +48,7 @@ export const loginStyles = createStyleSheet(({ colors, device, border }) => ({
         alignItems: 'center',
         paddingVertical: 20,
         paddingHorizontal: 15,
+        minHeight: device.height * 0.6,
     },
     title: {
         textAlign: 'center',
